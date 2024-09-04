@@ -11,3 +11,7 @@ print(hello)
 
 var doubles = 2.3231213
 print(doubles)
+
+
+
+print("hello")
